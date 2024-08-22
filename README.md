@@ -1,11 +1,8 @@
-# typing-speed-calculator-in-python
-choose the platform (Jupyter)
-# download the anaconda aap in which we select the jupyter 
-# launch the jupyter 
-# make a folder and then create a file in that folder 
-# then we istall the libraries 
-# dependencies are :-
-pip install TIME-python
-# after install the dependencies 
-# write the code of typing speed calculator in python
-# run it  
+# Typing-Speed-Calculator
+**Typing speed calculator** - A python program which can calculate the approx typing speed of a user in words per minute(WPM) and also tracks the number of mistakes done by the user while giving this test. 
+
+Find the *typing_speed_phrases.txt* to pick the phrases randomly. You need to place this file in the same folder as of the program or provide the full path of those files in the code.
+
+The typing speed test history is also stored in a text file.
+
+No external module required.
